@@ -79,7 +79,8 @@ espacios similares hasta meras suposiciones.
    presentamos en la
    [sección 4 de la práctica 1](https://github.com/gwolf/sistop-2019-1/tree/master/practicas/1/README.md):
    
-       `[tipo_entrega]/[numero]/[ApellidoNombre]/`
+       [tipo_entrega]/[numero]/[ApellidoNombre]/
+
     * Esto es, por ejemplo, si voy a entregar la primera práctica,
       lo hago en el directorio `tareas/1/WolfGunnar`
     * Si estamos resolviendo algo en equipo, el directorio se crea con
