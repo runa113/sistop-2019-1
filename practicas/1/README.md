@@ -125,6 +125,13 @@ acabas de crear:
 
     nothing added to commit but untracked files present (use "git add" to track)
 
+Es probable que tengas que indicarle a Git tu nombre y correo, para
+dar *atribución* (recuerda que Git es en primerísimo lugar un sistema
+de *desarrollo colaborativo*):
+
+    $ git config --global user.name "Fulano de Tal"
+	$ git config --global usre.email fulano@tal.org
+
 ## 6. Agrega tu archivo a Git y envíalo al servidor
 
 Primero indica a Git que vas a agregar el archivo que creaste:
