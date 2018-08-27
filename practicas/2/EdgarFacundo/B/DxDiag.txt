@@ -1507,3 +1507,4 @@ Nueva búsqueda de una solución: 0
 Identificador de informe: 8b0bba2d-a99a-11e8-8274-40e2309dbd2c
 Estado del informe: 4
 Depósito con algoritmo hash: 
+.
