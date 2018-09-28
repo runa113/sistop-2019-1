@@ -1,6 +1,6 @@
 #lang racket
 (define (f2 x)(* x x))
-(define pi 3.1416)
+(define pi 3.1415)
 
 ;(define (met m)(* m 1 ))
 
